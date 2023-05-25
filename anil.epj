@@ -1,0 +1,13 @@
+Begin Project "anil", "", VC_PROJECT=anil, AUXPROJPATH=, NATIVEVC=
+DATASOURCE=
+DATABASE=
+
+Begin File "demo.sql"
+PATH=.\demo.sql
+DESCRIPTION=
+INCLUDE=1
+BUILDINDEX=-1
+OBJECTTYPE=-1
+End File
+
+End Project
